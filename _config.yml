@@ -6,7 +6,7 @@
 name: Robert Curry
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Development Fumbles
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/RobertCurry0216/robertcurry0216.github.io/main/assets/img/profile.jpg
@@ -18,19 +18,18 @@ avatar: https://raw.githubusercontent.com/RobertCurry0216/robertcurry0216.github
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: robertcurry0216@gmail.com
   facebook:
   flickr:
   github: robertcurry0216
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/robert-curry-832a08134/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -66,7 +65,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
