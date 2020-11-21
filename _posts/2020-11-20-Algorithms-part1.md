@@ -4,8 +4,6 @@ title: Algorithms Part 1 - Insertion Sort
 published: true
 ---
 
-## What am I doing?
-
 This is the first part in an ongoing series where I'm going to do my best to impliment different algorithms from scratch using c#.
 I'll be starting by working through O'Reilly's Algorithms in a Nutshell.
 
