@@ -118,6 +118,10 @@ It does mave a pretty poor worst case though of O(n^2), best and average can of 
 
 ## More
 
-There are more optimisations I could make, choosing the pivot better would help avoid worst case scenarios. 
+There are more optimisations I could make, choosing the pivot better would help avoid worst case scenarios.
 
 QuickSort actually proforms poorly on short lists so a common optimisation is to InsertionSort once the partitions are small enough. I decided to leave this out though as this is just for practice and I wanted to see the quick sort in action.
+
+---
+
+# [View the code on Github](https://github.com/RobertCurry0216/NutshellAlgorithms)

@@ -164,3 +164,7 @@ Thats a huge increase!
 ---
 
 That it for me today, I had fun learning heap sort and learnt some nice tricks ＜（＾－＾）＞
+
+---
+
+# [View the code on Github](https://github.com/RobertCurry0216/NutshellAlgorithms)
